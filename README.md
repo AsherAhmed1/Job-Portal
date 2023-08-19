@@ -1,7 +1,7 @@
-# Job-Portal
+# Job-Portal in MERN Stack
 This is a project which I have completed in an internship for CodSoft.
 
-In both of the folder Node_Modules folder is not included so in case if you want to use this code for your project you have to first create react app
+In both of the folder run (npm install) command
 
 by typing this command : npx create-react-app frontend   => when you have entered this command node_modules folder will be created automatically
 
